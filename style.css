@@ -1,0 +1,166 @@
+.heading ul{
+    margin-left: 20px;
+    display: flex;
+    gap: 13%;
+    list-style: none;
+    /* background-color: beige; */
+}
+.heading ul li{
+    margin-left: 0% 15%;
+    padding-top: 5%;
+}
+.paragraph {
+    padding-top: 5%;
+    padding-right: 55%;;
+    
+}
+.heads{
+    padding-right: 70%;
+    color: yellowgreen;
+}
+.picture{
+    position: relative;
+    left: 800px;
+    bottom: 40px;
+    padding-right: 30px;
+}
+.test{
+    border-radius: 10px;
+    padding: 1% 3%;
+    background-color: yellow;
+}
+.text{
+    text-align: center;
+}
+.advert{
+    display: flex;
+    gap: 10%;
+}
+.box{
+    border-radius: 10px;
+    padding: 3% 8%;
+    background-color: yellow;
+}
+/* .msg ionicon{ */
+    /* background-color: yellow; */
+/* } */
+.content{
+    padding-right: 75%;
+    padding-left: 11%;
+    padding-top: 10%;
+    background-color: antiquewhite;
+}
+.box5{
+    padding-bottom: 1% 0%;
+    border-radius: 10px;
+    background-color: yellow;
+}
+.dish{
+    /* float: left; */
+    padding-left: 110%;
+    bottom: 240px;
+    position: relative;
+}
+.box6{
+    padding: 2% 5%;
+    border-radius: 10px;
+    background-color: yellow;
+}
+.content h1{
+    font-size: 28px;
+}
+.photos{
+    text-align: center;
+    padding-bottom: 15%;
+} 
+.parent{
+    display: flex;
+    padding-bottom: 4%;
+} 
+#burger{
+    width: 350px;
+    height: 300px;
+    background-color: yellow;
+} 
+#salads{
+    width: 350px;
+    height: 300px;
+    background-color: yellow;
+}
+#popco{
+    width: 350px;
+    height: 300px;
+    background-color: yellow;
+}
+.title{
+    text-align: center;
+    padding-top: 5%;
+}
+.assesories{
+    display: flex;
+    gap: 10%;
+    padding-top: 8%;
+}
+.backside{
+    text-align: center;
+    padding-top: 5%;
+}
+#quote{
+    position: relative;
+    left: 2%;
+    width: 120px;
+    height: 100px;
+}
+.backside p8{
+    padding-left: 5%;
+
+
+}
+.emoji{
+    display: flex;
+    /* align-items: center; */
+    position: relative;
+    left: 450px;
+}
+.phones{
+    display: flex;
+    padding-top: 5%;
+    background-color: papayawhip;
+}
+.lastt{
+    padding-top: 3%;
+}
+.buton{
+    border-radius: 10px;
+    gap: 2%;
+    display: flex;
+}
+.but{
+    border-radius: 10px;
+    padding: 2% 5%;
+    color: white;
+    background-color: black;
+}
+.but1{
+    border-radius: 10px;
+    padding: 2% 5%;
+    color: white;
+    background-color: black;
+}
+.all{
+    padding-left: 7%;
+    background-color: papayawhip;
+}
+.but2{
+    border-radius: 10px;
+    padding: 2% 5%;
+    color: black; 
+    background-color: azure;  
+}
+.table{
+    display: flex;
+    gap:10%;
+    
+}
+
+
